@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/drawable/ic_baseline_insert_photo_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/drawable/user_image.xml" value="0.1" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/activity_chat.xml" value="0.3546875" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/activity_main.xml" value="0.3134057971014493" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/activity_sing_in.xml" value="0.4" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/activity_user_list.xml" value="0.264" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/message_item.xml" value="0.3869346733668342" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/my_message_item.xml" value="0.3546875" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/user_item.xml" value="0.2" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/layout/your_message_item.xml" value="0.4" />
+        <entry key="..\:/AndroidProgramm/JavaAndroidApps/AwesomeChat/app/src/main/res/menu/main_menu.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

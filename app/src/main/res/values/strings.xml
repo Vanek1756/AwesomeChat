@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AwesomeChat</string>
+    <string name="LogInRU">Вход</string>
+    <string name="SingUpRU">Регистрация</string>
+</resources>
